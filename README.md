@@ -90,10 +90,21 @@ Light and dark, native menus, familiar shortcuts, a command palette for everythi
 
 <br>
 
+## Maps for your spatial data
+
+Run a query with PostGIS geometry and switch to **Map**. Hundreds of thousands of features draw instantly on a built-in, offline basemap. Color by any column, hover for details, and click to jump to the row.
+
+<div align="center">
+<img src=".github/assets/shot-map.jpg" alt="100,000 places in Chicago on Tachyon's map, colored by category" width="100%">
+</div>
+
+<br>
+
 ## Everything a pro needs
 
 | | |
 |---|---|
+| **Maps & PostGIS** | See geometry on a fast, offline map, color it by any column, and get spatial autocomplete, index checks and GeoJSON export. |
 | **Table designer** | Add and change columns, keys, indexes and constraints, with the SQL shown before anything runs. |
 | **Roles & privileges** | Manage roles, memberships, table, column and default privileges. |
 | **Backup & restore** | Back up and restore databases, schemas or single tables. |
