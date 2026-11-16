@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="112" viewBox="-12 -6 840 112">
+  <!-- TACHYON wordmark: wide geometric capitals, the A's bar replaced by a
+       blue-to-violet delta. Drawn as strokes so it needs no font. -->
+  <defs>
+    <linearGradient id="delta" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4FA8FF"/>
+      <stop offset="1" stop-color="#8A3FFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#14142A" stroke-width="20" stroke-linejoin="miter" stroke-miterlimit="10">
+    <path d="M0 10 H96 M48 10 V100"/>
+    <path d="M338 10 H286 Q244 10 244 50 Q244 90 286 90 H338"/>
+    <path d="M366 0 V100 M444 0 V100 M366 50 H444"/>
+    <path d="M466 0 L516 52 L566 0 M516 50 V100"/>
+    <rect x="596" y="10" width="104" height="80" rx="40"/>
+  </g>
+  <g fill="#14142A">
+    <path d="M112 100 L155 0 H177 L220 100 H197 L166 26 L135 100 Z"/>
+    <path d="M720 100 V0 H742 L796 66 V0 H816 V100 H794 L740 34 V100 Z"/>
+  </g>
+  <path d="M166 60 L186 100 L146 100 Z" fill="url(#delta)"/>
+</svg>
