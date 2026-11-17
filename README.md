@@ -25,6 +25,7 @@ Fast, beautiful and built for people who live in their database.
 <img src="https://img.shields.io/badge/macOS-12%2B-8a3fff?style=flat-square" alt="macOS 12 or later">
 <img src="https://img.shields.io/badge/Apple_silicon_%26_Intel-universal-4fa8ff?style=flat-square" alt="Universal app for Apple silicon and Intel">
 <img src="https://img.shields.io/badge/PostgreSQL-native-8a3fff?style=flat-square&logo=postgresql&logoColor=white" alt="Built for PostgreSQL">
+<img src="https://img.shields.io/badge/notarized-by_Apple-4fa8ff?style=flat-square&logo=apple&logoColor=white" alt="Signed and notarized by Apple">
 
 <br>
 <br>
@@ -125,18 +126,17 @@ Run a query with PostGIS geometry and switch to **Map**. Hundreds of thousands o
 
 ## Install
 
-1. [Download the latest release](https://github.com/mccannjustin17/tachyon-releases/releases/latest) (`Tachyon-<version>-universal.zip`).
-2. Unzip it and drag **Tachyon** into your **Applications** folder.
+1. [Download the latest release](https://github.com/mccannjustin17/tachyon-releases/releases/latest) (`Tachyon-<version>.dmg`).
+2. Open it and drag **Tachyon** into your **Applications** folder.
 3. Open Tachyon and connect: paste a `postgres://` URL, add a connection, or try the built-in sample database.
 
-> [!NOTE]
-> Early releases are not yet notarized by Apple. The first time you open Tachyon, macOS will stop it: go to **System Settings › Privacy & Security**, click **Open Anyway** next to Tachyon, and confirm. On macOS 14 and earlier you can instead Control-click the app and choose **Open**.
+Tachyon is signed and notarized by Apple.
 
 **Requirements:** macOS 12 Monterey or later, on Apple silicon or Intel. Works with PostgreSQL servers on your Mac, on your network or in the cloud, over SSL and SSH.
 
 ## Updates
 
-Tachyon checks this page for new versions and offers to install them for you. Every download is verified against its published SHA-256 checksum before it's installed. You can turn automatic checks off in **Settings**, or check any time with **Tachyon › Check for Updates…**
+Tachyon checks this page for new versions and offers to install them for you. Every download is verified against its published SHA-256 checksum and the developer's signature before it's installed. You can turn automatic checks off in **Settings**, or check any time with **Tachyon › Check for Updates…**
 
 See what changed in each version on the [releases page](https://github.com/mccannjustin17/tachyon-releases/releases).
 
