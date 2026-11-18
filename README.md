@@ -101,6 +101,12 @@ Run a query with PostGIS geometry and switch to **Map**. Hundreds of thousands o
 
 <br>
 
+## Redis and Valkey too
+
+Connect to Redis or Valkey with a link, or in one click when they're running in Docker, OrbStack or Podman on your Mac. Browse keys grouped by prefix, open any type in a view made for it, and see where your memory goes with keyspace analysis: biggest keys, key patterns and what's set to expire. Anything that changes data asks first.
+
+<br>
+
 ## Everything a pro needs
 
 | | |
