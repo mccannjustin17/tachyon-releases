@@ -31,6 +31,13 @@ Fast, beautiful and built for people who live in their database. Redis and Valke
 <br>
 <br>
 
+<a href="https://github.com/mccannjustin17/tachyon-releases/blob/main/.github/assets/tachyon-film.mp4"><img src=".github/assets/tachyon-preview.gif" alt="A short silent preview of Tachyon: databases found on this Mac, autocomplete, edits waiting in the changes bar, places on a PostGIS map, Redis keyspace analysis and the Ask AI menu" width="100%"></a>
+
+<sub><a href="https://github.com/mccannjustin17/tachyon-releases/blob/main/.github/assets/tachyon-film.mp4">▶ Watch the full film with sound (73 seconds)</a></sub>
+
+<br>
+<br>
+
 <img src=".github/assets/shot-hero.jpg" alt="Tachyon with a SQL query, its results, and AI Assist answering a question about top customers" width="100%">
 
 </div>
