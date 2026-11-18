@@ -177,7 +177,10 @@ Run a query with PostGIS geometry or geography and switch to **Map**. Hundreds o
 - **Spatial insight everywhere.** PostGIS autocomplete and docs, readable WKT, EWKT and GeoJSON in the inspector, geometry types, SRIDs and extents for every table, and a warning with a one-click fix when a big table has no spatial index.
 
 <div align="center">
-<img src=".github/assets/shot-map.jpg" alt="100,000 places in Chicago on Tachyon's map, colored by category" width="100%">
+<img src=".github/assets/shot-map.jpg" alt="100,000 places in Chicago on Tachyon's map, colored by category, with a hover card" width="100%">
+<br>
+<img src=".github/assets/shot-map-choropleth.jpg" alt="Chicago neighborhoods colored by median income with natural breaks and labels" width="49%">
+<img src=".github/assets/shot-spatial-tools.jpg" alt="The Spatial tools sheet writing a within-distance query" width="49%">
 </div>
 
 <br>
